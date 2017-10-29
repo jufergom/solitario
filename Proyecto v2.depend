@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1509245025 source:c:\unitec\estructura de datos 1\tareas\proyecto v2\main.cpp
+	<iostream>
+	<allegro.h>
+	<vector>
+	"inicia.h"
+	"card.h"
+
+1509232601 c:\unitec\estructura de datos 1\tareas\proyecto v2\inicia.h
+
+1509223031 source:c:\unitec\estructura de datos 1\tareas\proyecto v2\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1509223031 source:c:\unitec\estructura de datos 1\tareas\proyecto v2\nodo.cpp
+	"Nodo.h"
+	<iostream>
+
+1509223031 c:\unitec\estructura de datos 1\tareas\proyecto v2\nodo.h
+	"card.h"
+
+1509243011 c:\unitec\estructura de datos 1\tareas\proyecto v2\card.h
+	<allegro.h>
+
+1509223031 source:c:\unitec\estructura de datos 1\tareas\proyecto v2\listaapuntadores.cpp
+	"Nodo.h"
+	"ListaApuntadores.h"
+	"card.h"
+	<iostream>
+
+1509223031 c:\unitec\estructura de datos 1\tareas\proyecto v2\listaapuntadores.h
+	"Nodo.h"
+
+1509244226 source:c:\unitec\estructura de datos 1\tareas\proyecto v2\card.cpp
+	"card.h"
+	"ListaApuntadores.h"
+	"inicia.h"
+
